@@ -1,0 +1,89 @@
+//Cores
+.bg-secondary-medium {
+  background-color: #1e1e1e;
+}
+
+.fg-neutral-white {
+  color: white;
+}
+.fg-primary-medium {
+  color: #ffba1e;
+}
+
+//Flex
+.d-flex {
+  display: flex;
+}
+
+.flex-align-center {
+  align-items: center;
+}
+
+//Fonts
+
+.bold {
+  font-weight: 700 !important;
+}
+
+.p1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+.s3 {
+  //14px
+}
+
+.s2 {
+  //16px
+}
+.s1 {
+  //20px
+}
+
+.h6 {
+  //24px
+}
+.h5 {
+  //28px
+}
+.h3 {
+  //32px
+}
+.h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+.plogo {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+}
+
+//Margem
+.mr-1 {
+  margin-right: 4px;
+}
+
+.mr-2 {
+  margin-right: 8px;
+}
+
+//Position
+
+.pos-relative {
+  position: relative;
+}
+
+.pos-absolute {
+  position: absolute;
+}
